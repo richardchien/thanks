@@ -9,4 +9,4 @@
 - waylon
 - 濄客/pch
 
-还有若干笔通过微信收款码的捐助无法获知对方是谁，所以没法列出，如有遗漏，请发 Pull Request 或联系我的邮箱修改。
+还有若干笔通过微信收款码的捐助无法获知对方是谁，所以没法列出，如有遗漏，请发 Pull Request 或联系我的邮箱 richardchienthebest@gmail.com 修改。
