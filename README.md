@@ -10,7 +10,7 @@
 | 17.4.28 | 未知 | CoolQ HTTP API 插件 | 10.00 |
 | 17.5.23 | 未知 | CoolQ HTTP API 插件 | 10.00 |
 | 17.5.25 | 莫奈丶 | CoolQ HTTP API 插件 | 10.00 |
-| 17.6.9 | Sean | CoolQ HTTP API 插件 | 15.00 |
+| 17.6.9 | Sean | CoolQ HTTP API 插件 | 12.00 |
 | 17.6.9 | waylon | CoolQ HTTP API 插件 | 15.00 |
 | 17.6.9 | 濄客/pch | CoolQ HTTP API 插件 | 100.00 |
 
