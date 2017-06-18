@@ -14,5 +14,6 @@
 | 17.6.9 | waylon | CoolQ HTTP API 插件 | 15.00 |
 | 17.6.9 | 濄客/pch | CoolQ HTTP API 插件 | 100.00 |
 | 17.6.11 | 耳东阁主 | CoolQ HTTP API 插件 | 6.66 |
+| 17.6.18 | 虾米 | CoolQ HTTP API 插件 | 12.00 |
 
 有若干笔通过微信收款码的捐助无法获知对方是谁，所以填了「未知」，如有遗漏，请发 Pull Request 或联系我的邮箱 richardchienthebest@gmail.com 修改。
