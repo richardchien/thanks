@@ -16,5 +16,6 @@
 | 17.6.11 | 耳东阁主 | CoolQ HTTP API 插件 | 6.66 |
 | 17.6.18 | 虾米 | CoolQ HTTP API 插件 | 12.00 |
 | 17.6.18 | 紫陌沙洲 | CoolQ HTTP API 插件 | 8.88 |
+| 17.6.19 | 未知 | CoolQ HTTP API 插件 | 10.00 |
 
 有若干笔通过微信收款码的捐助无法获知对方是谁，所以填了「未知」，如有遗漏，请发 Pull Request 或联系我的邮箱 richardchienthebest@gmail.com 修改。
