@@ -22,5 +22,6 @@
 | 17.9.5 | 孔小飞 | - | 10.00 |
 | 17.10.11 | Whale \#4 | CoolQ HTTP API 插件 | 5.00 |
 | 17.10.12 | T.H.E. | CoolQ HTTP API 插件 | 23.33 |
+| 17.10.18 | 汪 汪 | CoolQ HTTP API 插件 | 6.66 |
 
 有若干笔通过微信收款码的捐助无法获知对方是谁，所以填了「未知」，如有遗漏，请发 Pull Request 或联系我的邮箱 richardchienthebest@gmail.com 修改。
