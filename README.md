@@ -24,6 +24,6 @@
 | 17.10.12 | T.H.E. | CoolQ HTTP API 插件 | 23.33 |
 | 17.10.18 | 汪 汪 | CoolQ HTTP API 插件 | 6.66 |
 | 17.11.19 | Mr.Lee | CoolQ HTTP API 插件 | 10.00 |
-| 17.11.19 | 未知 | CoolQ HTTP API 插件 | 10.00 |
+| 17.11.19 | 行香 | CoolQ HTTP API 插件 | 10.00 |
 
 有若干笔通过微信收款码的捐助无法获知对方是谁，所以填了「未知」，如有遗漏，请发 Pull Request 或联系我的邮箱 richardchienthebest@gmail.com 修改。
