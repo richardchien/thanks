@@ -52,5 +52,6 @@
 | 18.8.29 | PrintNow | 6.66 |
 | 18.9.19 | kj415j45 | 18.88 |
 | 18.9.21 | 鲸鱼 | 233.00 |
+| 18.9.24 | bleatingsheep | 22.22 |
 
 有若干笔通过微信收款码的捐助无法获知对方是谁，所以填了「未知」，如有遗漏，请发 Pull Request 或联系我的邮箱 richardchienthebest@gmail.com 修改。
